@@ -1,9 +1,9 @@
 def new_hash
-
+hash.new
 end
 
 def actor
-
+actor = {:name => ""
 end
 
 def monopoly
